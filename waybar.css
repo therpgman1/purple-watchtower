@@ -1,2 +1,14 @@
 @define-color background #391d69;
 @define-color foreground #ffffff;
+
+.modules-left {
+  background: @background
+}
+
+.modules-right {
+  background: @background
+}
+
+#clock {
+  background: @background
+}
